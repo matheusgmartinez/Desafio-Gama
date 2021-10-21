@@ -1,6 +1,7 @@
 SITE:
 
-https://matheusgmartinez.github.io/Desafio-Gama
+Git CLone
+Abrir index.html
 
 
 <h1>Objetivo</h1>
