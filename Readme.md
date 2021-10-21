@@ -1,6 +1,6 @@
 SITE:
 
-https://matheusgmartinez.github.io/Desafio-Gama/
+https://matheusgmartinez.github.io/Desafio-Gama
 
 
 <h1>Objetivo</h1>
