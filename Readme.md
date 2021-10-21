@@ -1,4 +1,7 @@
-Obs: Tive que criar um novo repositório, pois o antigo ficou totalmente bugado com minhas tentativas de commit.
+SITE:
+
+https://matheusgmartinez.github.io/Desafio-Gama/
+
 
 <h1>Objetivo</h1>
 <p>Desenvolver um site responsivo de catálogo de produtos para nosso cliente.</p>
